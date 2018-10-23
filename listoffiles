@@ -1,7 +1,7 @@
 shadowsocks(-Qt)(-libev)
 discord
 spotify
-Binwalk
+Binwalk -- attempting submodule?
 GitTools
 gdb-peda (checksec)
 ROPGadget
